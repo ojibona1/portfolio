@@ -163,11 +163,7 @@ function Contact() {
 
                         <div className="relative z-10 pt-8 mt-8 border-t border-white/5">
                             <span className="text-[10px] uppercase tracking-[0.2em] text-slate-500 font-bold block mb-2">Based In</span>
-<<<<<<< HEAD
                             <span className="text-sm text-slate-300 font-medium">Lagos, Nigeria • Remote Globally</span>
-=======
-                            <span className="text-sm text-slate-300 font-medium">Remote Globally</span>
->>>>>>> 8a25d61 (Initial portfolio commit)
                         </div>
                     </div>
                 </div>
